@@ -32,4 +32,6 @@ mvnw.cmd
 
 # Local Profiles
 /**/application-local.yml
+/**/application-gsugambit.yml
 /**/docker-compose-local.yml
+/**/application-gsugambit.yml
