@@ -1,5 +1,6 @@
 # minecraft-rcon-connect
 Exposes the RCon protocol for minecraft over REST. 
+https://wiki.vg/RCON
 
 ## Development Environment
 > JDK 11
